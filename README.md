@@ -321,11 +321,16 @@ This will:
 Each member should contribute 2–3 sentences on their learning and project experience.
 
 > **Reflections:**  
-> - Ryan:  
-> - Haoyue: I feel the biggest problem we had in the project was not planning ahead.  We started development without proper design artifacts, like UML models, use case diagrams, or detailed user stories.  We don't need to have comprehensive documentation, but I've learned that these tools are necessary for getting everyone on the same page with a common goal.  We often had problems with confusion, different expectations, and expensive rework without them. I also learned that well-written user stories with clear acceptance criteria are not just rules and regulations; they are necessary to keep everyone on the same page and stop uncontrolled scope creep.  It was hard to deal with last-minute changes, but it taught me that setting limits isn't about being rigid; it's about keeping the project's integrity and the quality of the code. Additionaly, I learned that every team member should know how data moves through the whole system, even though we split up the work between the front end and the back end.  These aren't just theoretical best practices; they're real habits that help teams make software that works well and lasts.
+> - Ryan:
+
+> - Haoyue: I feel the biggest problem we had in the project was not planning ahead.  We started development without proper design artifacts, like UML models, use case diagrams, or detailed user stories.  We don't need to have comprehensive documentation, but I've learned that these tools are necessary for getting everyone on the same page with a common goal.  We often had problems with confusion, different expectations, and expensive rework without them. I also learned that well-written user stories with clear acceptance criteria are not just rules and regulations; they are necessary to keep everyone on the same page and stop uncontrolled scope creep. It was hard to deal with last-minute changes, but it taught me that setting limits isn't about being rigid; it's about keeping the project's integrity and the quality of the code. Additionaly, I learned that every team member should know how data moves through the whole system, even though we split up the work between the front end and the back end.  These aren't just theoretical best practices; they're real habits that help teams make software that works well and lasts.
+
 > - Charlize: I feel like this project has been challenging and complicated, but it was really insightful in helping me realise how a proper project works. I learnt how to efficiently split up and delegate tasks based on our strengths, how to work together as a group to integrate our code and our ideas together, how to debug and fix errors that we came across and more. I think the biggest challenge was getting all our ideas aligned, and ensuring everyone was on the same page, since we all had different impressions of the same feature, which led to a lot of miscommunication and extra work.
+
 > - Amelia:
+
 > - Jessica:
+
 > - Rui Xuan: I thought it was difficult since I was learning an entirely new language and have to use that knowledge to build the app, however, I thought it was a good learning experience and this helped me build my fundamentals for the module. Ensuring everyone could code without merge conflicts was definitely a pain, but it was worthwhile seeing everyone come together and helping each other solve their bugs. We did have miscommunications here and there, but we sat down with each other and fought it out, eventually coming to a conclusion.
 
 As a team, reflect on:
