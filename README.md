@@ -15,7 +15,7 @@ G3 Group 8
 |:--:|:--|:--|
 | <img src="frontend/src/public/assets/Jessica.png" width="80"> | Ang Hui Peng Jessica | Designed the Home page |
 | <img src="frontend/src/public/assets/Charlize.png" width="80"> | Charlize Teo Hui Zi | Designed the Guidebook game function and Volunteer map page |
-| <img src="frontend/src/public/assets/Haoyue.png" width="80"> | Wu Haoyue | System architecture: Project setup, database management, cloud deployment.<br>System Logic: Role-based access control, authentication (Signup & Login), integration testing/debugging.<br>Features: Report page backend, Volunteer Active Report Summary (frontend & backend), Volunteer Past Report (frontend & backend). |
+| <img src="frontend/src/public/assets/Haoyue.png" width="80"> | Wu Haoyue | System architecture: Project setup, database management, cloud deployment.<br>System Logic: Role-based access control, authentication (Signup & Login), integration testing&debugging.<br>Features: Report page backend, Volunteer Active Report Summary (frontend & backend), Volunteer Past Report (frontend & backend). |
 | <img src="frontend/src/public/assets/Amelia.png" width="80"> | Soh Li Qing Amelia | Designed Report, Resources/Donate page |
 | <img src="frontend/src/public/assets/Ryan.png" width="80"> | Chua Wee Chye Ryan | integrated the backend logic for AI Camera and Status Page |
 | <img src="frontend/src/public/assets/Ruixuan.png" width="80"> | Low Rui Xuan | Designed Guidebook, Login & Signup page |
@@ -322,7 +322,7 @@ Each member should contribute 2–3 sentences on their learning and project expe
 
 > **Reflections:**  
 > - Ryan:  
-> - Haoyue:
+> - Haoyue: I feel the biggest problem we had in the project was not planning ahead.  We started development without proper design artifacts, like UML models, use case diagrams, or detailed user stories.  We don't need to have comprehensive documentation, but I've learned that these tools are necessary for getting everyone on the same page with a common goal.  We often had problems with confusion, different expectations, and expensive rework without them. I also learned that well-written user stories with clear acceptance criteria are not just rules and regulations; they are necessary to keep everyone on the same page and stop uncontrolled scope creep.  It was hard to deal with last-minute changes, but it taught me that setting limits isn't about being rigid; it's about keeping the project's integrity and the quality of the code. Additionaly, I learned that every team member should know how data moves through the whole system, even though we split up the work between the front end and the back end.  These aren't just theoretical best practices; they're real habits that help teams make software that works well and lasts.
 > - Charlize: I feel like this project has been challenging and complicated, but it was really insightful in helping me realise how a proper project works. I learnt how to efficiently split up and delegate tasks based on our strengths, how to work together as a group to integrate our code and our ideas together, how to debug and fix errors that we came across and more. I think the biggest challenge was getting all our ideas aligned, and ensuring everyone was on the same page, since we all had different impressions of the same feature, which led to a lot of miscommunication and extra work.
 > - Amelia:
 > - Jessica:
