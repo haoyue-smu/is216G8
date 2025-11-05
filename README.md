@@ -15,7 +15,9 @@ G3 Group 8
 |:--:|:--|:--|
 | <img src="frontend/src/public/assets/Jessica.png" width="80"> | Ang Hui Peng Jessica | Designed the Home page |
 | <img src="frontend/src/public/assets/Charlize.png" width="80"> | Charlize Teo Hui Zi | Designed the Guidebook game function and Volunteer map page |
-| <img src="frontend/src/public/assets/Haoyue.png" width="80"> | Wu Haoyue | Project setup, Database setup, Cloud deployment,<br>Integration testing & debugging,<br>Role-Based Access throughout the system,<br>Report page backend,<br>Signup & Login page backend,<br>Volunteer Active Report Summary (frontend & backend),<br>Volunteer Past Report (frontend & backend) |
+| <img src="frontend/src/public/assets/Haoyue.png" width="80"> | Wu Haoyue | System architecture: Project setup, database management, cloud deployment.<br>
+System Logic: Role-based access control, authentication (Signup & Login), integration testing/debugging.<br>
+Features: Report page backend, Volunteer Active Report Summary (frontend & backend), Volunteer Past Report (frontend & backend). |
 | <img src="frontend/src/public/assets/Amelia.png" width="80"> | Soh Li Qing Amelia | Designed Report, Resources/Donate page |
 | <img src="frontend/src/public/assets/Ryan.png" width="80"> | Chua Wee Chye Ryan | integrated the backend logic for AI Camera and Status Page |
 | <img src="frontend/src/public/assets/Ruixuan.png" width="80"> | Low Rui Xuan | Designed Guidebook, Login & Signup page |
